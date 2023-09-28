@@ -1,1 +1,33 @@
-# Neuron-Labs-internship-tasks-
+# Neuron Labs Data Analysis Internship
+
+Welcome to the Neuron Labs Data Analysis Internship! This repository contains the tasks and reference datasets for each week of the internship.
+
+## Week 1: Exploratory Data Analysis
+
+### Task 1: Exploratory Data Analysis
+
+- [Week 1 Task]()
+- Reference Dataset: [Dataset Link](https://www.kaggle.com/datasets/dhruvkothari19/practice-eda-on-this-sales-dataset)
+
+## Week 2: Excel Call Center Dashboard
+
+### Task 2: Build an Excel Call Center Dashboard
+
+- [Week 2 Task]()
+- Reference Dataset: [Dataset Link](https://www.kaggle.com/datasets/mesumraza/real-world-fake-dataset-for-practice)
+
+## Week 3: History Visualization
+
+### Task 3: History Visualization
+
+- [Week 3 Task]()
+- Reference Dataset: [Dataset Link](https://www.kaggle.com/datasets/smid80/weatherww2)
+
+## Week 4: Covid-19 Impact Analysis
+
+### Task 4: Covid-19 Impact Analysis
+
+- [Week 4 Task]()
+- Reference Dataset: [Dataset Link](https://www.kaggle.com/datasets/shashwatwork/impact-of-covid19-pandemic-on-the-global-economy)
+
+Feel free to explore each week's tasks and datasets.
