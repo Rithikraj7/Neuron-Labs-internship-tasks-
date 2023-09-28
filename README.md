@@ -6,7 +6,7 @@ Welcome to the Neuron Labs Data Analysis Internship! This repository contains th
 
 ### Task 1: Exploratory Data Analysis
 
-- [Week 1 Task]()
+- [Week 1 Task](https://github.com/Rithikraj7/NeuronLabs-internship-tasks/tree/a893c4f0b5cd35836170e805564870cef0f1d21f/task1)
 - Reference Dataset: [Dataset Link](https://www.kaggle.com/datasets/dhruvkothari19/practice-eda-on-this-sales-dataset)
 
 ## Week 2: Excel Call Center Dashboard
